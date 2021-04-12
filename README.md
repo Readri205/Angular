@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - V1.0 Initial commit
 - V1.1 Update tictactoe components and scss
+- V1.2 Deploy to firebase

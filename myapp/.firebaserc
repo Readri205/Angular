@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-2816e": {
+      "hosting": {
+        "myapp": [
+          "angular-2816e"
+        ]
+      }
+    }
+  }
+}
